@@ -23,8 +23,8 @@ vim  nginx.conf
          require group "CN=Nginx1,OU=Nginx-proxy,DC=test,DC=com";                                      
          }  
 		 
-		# Ldap group:Nginx2
-		 ldap_server ad_2 {                                                                            
+	 # Ldap group:Nginx2
+	 ldap_server ad_2 {                                                                            
          url "ldap://172.16.10.10:3268/DC=test,DC=io?sAMAccountName?sub?(objectClass=person)";     
          binddn "test\\admin";                                                                   
          binddn_passwd "password";                                                                 
