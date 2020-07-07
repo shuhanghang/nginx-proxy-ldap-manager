@@ -1,7 +1,7 @@
 # nginx-proxy-ldap-manager
 Fork [nginx-auth-ldap](https://github.com/kvspb/nginx-auth-ldap) and  add LDAP module
 
-## 1. Install
+## 1.Install
 
 ```shell
 docker-compose up -d
@@ -35,7 +35,7 @@ vim  nginx.conf
          }  
 ```
 
-### 3. Login 
+### 3.Login 
 
 Default Administrator User
 
