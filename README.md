@@ -1,7 +1,7 @@
 # nginx-proxy-ldap-manager
 Fork [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) and  add [LDAP module](https://github.com/kvspb/nginx-auth-ldap)
-nginx-proxy-ldap:https://gitlab.com/shuhanghang/docker-alpine-nginx-base
-nginx-proxy-ldap-manager:https://gitlab.com/shuhanghang/nginx-proxy-ldap-manager
++ nginx-proxy-ldap:https://gitlab.com/shuhanghang/docker-alpine-nginx-base
++ nginx-proxy-ldap-manager:https://gitlab.com/shuhanghang/nginx-proxy-ldap-manager
 ## 1.Install
 
 ```shell
