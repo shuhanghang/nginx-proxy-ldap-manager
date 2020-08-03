@@ -1,5 +1,5 @@
 # nginx-proxy-ldap-manager
-Fork [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) and  add LDAP module
+Fork [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) and  add [LDAP module](https://github.com/kvspb/nginx-auth-ldap)
 
 ## 1.Install
 
