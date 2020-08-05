@@ -1,7 +1,7 @@
 version: "3"
 services:
   app:
-    image: shuhanghang/nginx-proxy-ldap-manager:1.0.0
+    image: shuhanghang/nginx-proxy-ldap-manager:latest
     restart: always
     ports:
       # Public HTTP Port:
